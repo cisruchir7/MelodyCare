@@ -1,0 +1,6 @@
+{
+  "name": "MelodyCare - Music for Special Needs",
+  "description": "An interactive, highly accessible music education mobile app designed for students with special needs, featuring sensory-friendly learning, virtual instruments, and parent/teacher progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
